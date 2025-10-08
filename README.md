@@ -1,5 +1,5 @@
 # FuncoesJs
-1ª atividade da disciplina Linguagens de Script - IFPB - TSI - 2025_2
+**1ª atividade da disciplina Linguagens de Script - IFPB - TSI - 2025_2**
 
 <ins>Tutorial para definir e criar funções em JavaScripit utilizando os formatos: declaration, expression e arrow.</ins>
 
