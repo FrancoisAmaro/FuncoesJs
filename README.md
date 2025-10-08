@@ -8,7 +8,7 @@ E aí companheiro dev, tudo bom? Aqui você saberá um pouco sobre o conceito e 
 ## Declaration
 
 A maneira mais simples de definir funções em JavaScript é através da function declaration, toda função de declaração começa com a palavra reservada e obrigatória function, seguida pelo nome da função (também obrigatório) e uma lista de parâmetros (opcionais) separados por vírgula e encapsulados em parenteses (obrigatórios), o último passo é definir as chaves (obrigatórias) que será o corpo da função.
-Exemplo:
+### Exemplo: ###
   ![Declaration1](https://private-user-images.githubusercontent.com/187148916/498878651-583354f9-13f1-4fe8-bbbe-e105bb2c8980.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk5MzI0OTgsIm5iZiI6MTc1OTkzMjE5OCwicGF0aCI6Ii8xODcxNDg5MTYvNDk4ODc4NjUxLTU4MzM1NGY5LTEzZjEtNGZlOC1iYmJlLWUxMDViYjJjODk4MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwOFQxNDAzMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZTg5NTkyNTg3ZTFjYjEzZjRlYTZkZTMyNDlmODRhNThkYTkyNzhiNzIyODZkZWFhYjViNmE2MDE3NjEwNzhiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.HzBC_5ZjWKi9hexZB23FdTasircFWSfT-htBSZ6MY1Q)
 
 Essa estrutura é a mais simples, porém, obrigatória para as functions declaration.Como mencionado anteriormente, também podemos definir parâmetros opcionais separados por vírgula
