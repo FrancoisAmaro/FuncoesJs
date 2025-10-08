@@ -105,7 +105,7 @@ criação desta função é facilitar a criação e utilização de funções em
 Em vez de function palavra-chave, ela usa uma seta (composta por dois sinais: = e >).
 
 
-![Seta01](https://github.com/user-attachments/assets/585c33f0-865b-46b4-b531-812e01d74e13)
+![Seta01](https://private-user-images.githubusercontent.com/187148916/498883509-03a3fd1b-4f18-4246-8e51-0d4957e1748a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk5MzMxMDQsIm5iZiI6MTc1OTkzMjgwNCwicGF0aCI6Ii8xODcxNDg5MTYvNDk4ODgzNTA5LTAzYTNmZDFiLTRmMTgtNDI0Ni04ZTUxLTBkNDk1N2UxNzQ4YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwOFQxNDEzMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZGU2ZjE3NTEzOTE4YTcyN2RhYzNlODI2NTdhZTg2MzlhNWJlODI4YTZmZWY4MjdhNGM0Y2Q5YmViOTcwNGIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kB62mYu8wYWaAt27lq-6T35oBixM3OVRWxmPbogr-vk)
 
 ## Vantagens  
 -Sintaxe pequena.  
