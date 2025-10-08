@@ -16,12 +16,12 @@ Essa estrutura é a mais simples, porém, obrigatória para as functions declara
 ![Declaration02](https://private-user-images.githubusercontent.com/187148916/498879004-013d6145-7f95-47c4-8ed3-e46b04ed5efa.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk5MzI0MDIsIm5iZiI6MTc1OTkzMjEwMiwicGF0aCI6Ii8xODcxNDg5MTYvNDk4ODc5MDA0LTAxM2Q2MTQ1LTdmOTUtNDdjNC04ZWQzLWU0NmIwNGVkNWVmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwOFQxNDAxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDc2MmY4NDEwNDcyMzQ3OTU2YTQzYmExYjM3ZTEyMTM0N2NmOGEwODNmNzVkYTAyZTliOTQyNGZhZGFiMDc2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.RwXyFpNHp2YlrRt42VYlCFE3AYSeEIWfHkpHhXRtQmg)
 
 ## Vantagens
--Hosting.  
+-Hosting (Içamento).  
 -Legibilidade do código.  
 -Facilidade de depuração.  
 
 ## **Desvantagens**
--Hoisting, apesar de ajudar, pode causar problema em códigos maiores.  
+-Hoisting, apesar de ajudar, pode causar problema em fluxos completos. 
 -Sem função anônima.  
 
 ## **Exemplo 1**  
@@ -70,7 +70,8 @@ onde não definimos o nome da função e sim o nome da variável que irá refere
 
 ## **Vantagem**  
 -Pode criar funções anônimas.   
--Legibilidade do código.  
+-Legibilidade do código.
+-Passagem como argumento.
 
 
 
@@ -107,14 +108,18 @@ Em vez de function palavra-chave, ela usa uma seta (composta por dois sinais: = 
 
 ![Seta01](https://private-user-images.githubusercontent.com/187148916/498883509-03a3fd1b-4f18-4246-8e51-0d4957e1748a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk5MzMxMDQsIm5iZiI6MTc1OTkzMjgwNCwicGF0aCI6Ii8xODcxNDg5MTYvNDk4ODgzNTA5LTAzYTNmZDFiLTRmMTgtNDI0Ni04ZTUxLTBkNDk1N2UxNzQ4YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwOFQxNDEzMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZGU2ZjE3NTEzOTE4YTcyN2RhYzNlODI2NTdhZTg2MzlhNWJlODI4YTZmZWY4MjdhNGM0Y2Q5YmViOTcwNGIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kB62mYu8wYWaAt27lq-6T35oBixM3OVRWxmPbogr-vk)
 
-## Vantagens  
+## Vantagens 
+-Legibilidade.
 -Sintaxe pequena.  
 -São anônimas.  
 
 
-## Desvantagens.  
--Método de objetos.  
+## Desvantagens.
+-Não possui *this* próprio.
+-Não possui o objeto *arguments*.
+-Não podem ser usadas com *yield*. 
 -Não faz hosting.  
+
 
 ## Exemplo 1 
 ```javascript
