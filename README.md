@@ -9,7 +9,7 @@ E aí companheiro dev, tudo bom? Aqui você saberá um pouco sobre o conceito e 
 
 A maneira mais simples de definir funções em JavaScript é através da function declaration, toda função de declaração começa com a palavra reservada e obrigatória function, seguida pelo nome da função (também obrigatório) e uma lista de parâmetros (opcionais) separados por vírgula e encapsulados em parenteses (obrigatórios), o último passo é definir as chaves (obrigatórias) que será o corpo da função.
 Exemplo:
-![Declaration1]
+![Declaration1](https://github.com/FrancoisAmaro/FuncoesJs/issues/1#issue-3495136125)
 
 
 
